@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding-top: 5px;
+    padding-left: 5px;
+    background-image: url('background.jpg');
+    background-size: cover; /* Mengatur gambar agar menutupi seluruh area */
+    background-position: center; /* Mengatur posisi gambar di tengah */
+    background-repeat: no-repeat; /* Mencegah gambar terulang */
+    height: 100vh; /* Mengatur tinggi body agar menutupi seluruh viewport */
+    
+}
+
+.box-input {
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.bottom {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+}
